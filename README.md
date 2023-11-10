@@ -19,7 +19,6 @@ In an era where environmental awareness is becoming more prominent, along with a
 4. **Air Pollution and Renewable Energy Impact Analysis**
     - Is there a correlation between air pollution levels and the generation of renewable energy from solar, wind, and hydro sources?
 
---
 
 
 ## Data Collection:
@@ -29,4 +28,18 @@ Data was collected from three Kaggle datasets listed below:
 - [CO2 Emissions](https://www.kaggle.com/datasets/ulrikthygepedersen/co2-emissions-by-country)
 - [Renewable Energy](https://www.kaggle.com/datasets/belayethossainds/renewable-energy-world-wide-19652022?select=02+modern-renewable-energy-consumption.csv)
 
-Each data source was uploaded to my SQL Server to create some new tables for easy analysis.
+
+## Results and Interpretation
+
+Solar energy production has experienced substantial growth rates, characterized by noticeable spikes starting in 2014. Wind energy production has similarly demonstrated significant expansion, beginning in 2009. Meanwhile, hydro energy production has maintained relative stability, albeit with occasional fluctuations, which may be attributed to variations in weather patterns and water resources.
+
+The rapid adoption of solar energy can be attributed to various factors, including decreasing costs, technological advancements, and an escalating awareness of environmental concerns. In regions with abundant sunlight, solar energy has seen widespread adoption, resulting in a considerable share of solar energy within their renewable energy mix. Wind energy has become a substantial component in regions where favorable wind conditions prevail. Moreover, hydro energy plays a prominent role in nations endowed with substantial water resources.
+
+The analysis of recent years reveals a slight decrease in CO2 emissions alongside renewable energy generation. Regions or countries grappling with higher levels of air pollution tend to exhibit a greater inclination toward the adoption of renewable energy sources. This inclination may stem from environmental concerns and regulatory pressures, indicating a potential correlation between increased air pollution and a heightened demand for cleaner and more sustainable energy sources.
+
+
+
+
+
+
+
