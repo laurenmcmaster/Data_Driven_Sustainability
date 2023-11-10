@@ -18,3 +18,15 @@ In an era where environmental awareness is becoming more prominent, along with a
     - What factors underlie the variations in the adoption of these renewable energy sources among different regions or countries?
 4. **Air Pollution and Renewable Energy Impact Analysis**
     - Is there a correlation between air pollution levels and the generation of renewable energy from solar, wind, and hydro sources?
+
+--
+
+
+## Data Collection:
+
+Data was collected from three Kaggle datasets listed below:
+
+- [CO2 Emissions](https://www.kaggle.com/datasets/ulrikthygepedersen/co2-emissions-by-country)
+- [Renewable Energy](https://www.kaggle.com/datasets/belayethossainds/renewable-energy-world-wide-19652022?select=02+modern-renewable-energy-consumption.csv)
+
+Each data source was uploaded to my SQL Server to create some new tables for easy analysis.
