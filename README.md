@@ -2,9 +2,7 @@
 
 ## Introduction
 
-In an era where environmental awareness is becoming more prominent, along with a need for sustainable energy solutions, I explore the intricate landscape of renewable energy production. Leveraging structured data and SQL-based analysis, my goal is to decipher historical trends in renewable energy sources, evaluate their efficiency, and delve into regional variations in their adoption. With a commitment to mitigating the impacts of climate change, this project aspires to equip stakeholders with insights that contribute to informed decisions and foster a cleaner, more environmentally responsible future.
-
----
+In an era where environmental awareness is becoming more prominent, along with a need for sustainable energy solutions, I explore the intricate landscape of renewable energy production. Leveraging structured data and SQL-based analysis, my goal is to decipher historical trends in renewable energy sources, variations in these sources by region, and whether this has had an effect on CO2 emissions globally. With a commitment to mitigating the impacts of climate change, this project aspires to equip stakeholders with insights that contribute to informed decisions and foster a cleaner, more environmentally responsible future.
 
 ## Key questions
 
@@ -19,8 +17,6 @@ In an era where environmental awareness is becoming more prominent, along with a
 4. **Air Pollution and Renewable Energy Impact Analysis**
     - Is there a correlation between air pollution levels and the generation of renewable energy from solar, wind, and hydro sources?
 
-
-
 ## Data Collection:
 
 Data was collected from three Kaggle datasets listed below:
@@ -30,8 +26,6 @@ Data was collected from three Kaggle datasets listed below:
 
 ## Visualization
 Link to visualization <a href="https://public.tableau.com/views/RenewableEnergyProject_16994785120460/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link">here</a> 
-
-
 
 ## Results and Interpretation
 
