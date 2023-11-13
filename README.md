@@ -24,6 +24,9 @@ Data was collected from three Kaggle datasets listed below:
 - [CO2 Emissions](https://www.kaggle.com/datasets/ulrikthygepedersen/co2-emissions-by-country)
 - [Renewable Energy](https://www.kaggle.com/datasets/belayethossainds/renewable-energy-world-wide-19652022?select=02+modern-renewable-energy-consumption.csv)
 
+## Database creation and analysis
+SQL files regarding database creation and analysis are located at Database_Setup.sql and Analysis.sql in the repository.
+
 ## Tableau visualization - <a href="[https://public.tableau.com/shared/SBSB4JS3X?:display_count=n&:origin=viz_share_link](https://public.tableau.com/views/RenewableEnergyProject_16994785120460/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)">here</a>
 I created an interactive Tableau dashboard for this project to visualize trends in each renewable energy source.
 <img align="center" src="Energy_Tableau.png">
